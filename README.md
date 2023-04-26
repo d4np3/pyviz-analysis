@@ -24,13 +24,13 @@ There is also an img folder with screenshots I've taken from the output of the c
 
 There was a gradual upward trend year on year during the period as shown below:
 
-[<img src="img/hu_trend_yoy.png">]
+<img src="img/hu_trend_yoy.png">
 
 * __*Did any year experience a drop in the average sale price per square foot compared to the previous year?*__
 
 2011 dropped below 2010 prices before rebounding in 2012:
 
-[<img src="img/av_sale_price_2010.png"><img src="img/av_sale_price_2011.png"><img src="img/av_sale_price_2012.png">]
+<img src="img/av_sale_price_2010.png" width=30% height=30%><img src="img/av_sale_price_2011.png" width=30% height=30%><img src="img/av_sale_price_2012.png" width=30% height=30%>
 
 
 ## Back to Fintech Home
