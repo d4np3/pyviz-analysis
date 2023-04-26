@@ -31,9 +31,11 @@ There was a gradual upward trend year on year during the period as shown below:
 2011 dropped below 2010 prices before rebounding in 2012 as shown below:
 
 Average Sale Price 2010
-</r img src="img/av_sale_price_2010.png" width=75% height=75%>
+<img src="img/av_sale_price_2010.png" width=75% height=75%>
+
 Average Sale Price 2011
 <img src="img/av_sale_price_2011.png" width=75% height=75%>
+
 Average Sale Price 2012
 <img src="img/av_sale_price_2012.png" width=75% height=75%>
 
@@ -43,6 +45,7 @@ It was considerably lower in 2016 compared to 2012 as shown below:
 
 Anza Vista Average Sale Price 2012
 <img src="img/av_sale_price_2012_anza-vista.png" width=75% height=75%>
+
 Anza Vista Average Sale Price 2016
 <img src="img/av_sale_price_2016_anza-vista.png" width=75% height=75%>
 
