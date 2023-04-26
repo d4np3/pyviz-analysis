@@ -31,7 +31,7 @@ There was a gradual upward trend year on year during the period as shown below:
 2011 dropped below 2010 prices before rebounding in 2012 as shown below:
 
 Average Sale Price 2010
-<img src="img/av_sale_price_2010.png" width=75% height=75%>
+</r img src="img/av_sale_price_2010.png" width=75% height=75%>
 Average Sale Price 2011
 <img src="img/av_sale_price_2011.png" width=75% height=75%>
 Average Sale Price 2012
