@@ -30,7 +30,7 @@ There was a gradual upward trend year on year during the period as shown below:
 
 2011 dropped below 2010 prices before rebounding in 2012:
 
-<img src="img/av_sale_price_2010.png" width=30% height=30%><img src="img/av_sale_price_2011.png" width=30% height=30%><img src="img/av_sale_price_2012.png" width=30% height=30%>
+<img src="img/av_sale_price_2010.png" width=40% height=42%><img src="img/av_sale_price_2011.png" width=40% height=40%><img src="img/av_sale_price_2012.png" width=40% height=40%>
 
 
 ## Back to Fintech Home
