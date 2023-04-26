@@ -30,24 +30,24 @@ There was a gradual upward trend year on year during the period as shown below:
 
 2011 dropped below 2010 prices before rebounding in 2012 as shown below:
 
-Average Sale Price 2010
-<img src="img/av_sale_price_2010.png" width=75% height=75%>
+Average Sale Price 2010</br>
+<img src="img/av_sale_price_2010.png" width=75% height=75%></br>
 
-Average Sale Price 2011
-<img src="img/av_sale_price_2011.png" width=75% height=75%>
+Average Sale Price 2011</br>
+<img src="img/av_sale_price_2011.png" width=75% height=75%></br>
 
-Average Sale Price 2012
-<img src="img/av_sale_price_2012.png" width=75% height=75%>
+Average Sale Price 2012</br>
+<img src="img/av_sale_price_2012.png" width=75% height=75%></br>
 
 * __*For the Anza Vista neighborhood, is the average sale price per square foot for 2016 more or less than the price that’s listed for 2012?*__
 
 It was considerably lower in 2016 compared to 2012 as shown below:
 
-Anza Vista Average Sale Price 2012
-<img src="img/av_sale_price_2012_anza-vista.png" width=75% height=75%>
+Anza Vista Average Sale Price 2012</br>
+<img src="img/av_sale_price_2012_anza-vista.png" width=75% height=75%></br>
 
-Anza Vista Average Sale Price 2016
-<img src="img/av_sale_price_2016_anza-vista.png" width=75% height=75%>
+Anza Vista Average Sale Price 2016</br>
+<img src="img/av_sale_price_2016_anza-vista.png" width=75% height=75%></br>
 
 
 ## Back to Fintech Home
