@@ -10,7 +10,7 @@ Above you will see the *^*.ipynb file for this homework.
 
 There is also an img folder with screenshots I've taken from the output of the challenge.
 
-Below I have compiled my assessment of the analysis, with those images, to support my notebook code for the challenge.
+Below I have compiled my analysis, with the images, to support my notebook code for this module challenge.
 
 # Challenge - Analysis of San Francisco Housing: 2010-2016
 
